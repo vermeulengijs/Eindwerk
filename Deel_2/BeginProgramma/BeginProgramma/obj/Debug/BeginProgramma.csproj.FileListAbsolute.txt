@@ -1,0 +1,6 @@
+C:\Users\Gijs\Desktop\BeginProgramma\BeginProgramma\obj\Debug\BeginProgramma.csprojAssemblyReference.cache
+C:\Users\Gijs\Desktop\BeginProgramma\BeginProgramma\obj\Debug\BeginProgramma.csproj.CoreCompileInputs.cache
+C:\Users\Gijs\Desktop\BeginProgramma\BeginProgramma\bin\Debug\BeginProgramma.exe
+C:\Users\Gijs\Desktop\BeginProgramma\BeginProgramma\bin\Debug\BeginProgramma.pdb
+C:\Users\Gijs\Desktop\BeginProgramma\BeginProgramma\obj\Debug\BeginProgramma.exe
+C:\Users\Gijs\Desktop\BeginProgramma\BeginProgramma\obj\Debug\BeginProgramma.pdb

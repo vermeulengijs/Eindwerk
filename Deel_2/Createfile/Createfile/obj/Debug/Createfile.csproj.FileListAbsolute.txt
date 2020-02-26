@@ -1,0 +1,6 @@
+C:\Users\Gijs\Desktop\Createfile\Createfile\bin\Debug\Createfile.exe
+C:\Users\Gijs\Desktop\Createfile\Createfile\bin\Debug\Createfile.pdb
+C:\Users\Gijs\Desktop\Createfile\Createfile\obj\Debug\Createfile.csprojAssemblyReference.cache
+C:\Users\Gijs\Desktop\Createfile\Createfile\obj\Debug\Createfile.csproj.CoreCompileInputs.cache
+C:\Users\Gijs\Desktop\Createfile\Createfile\obj\Debug\Createfile.exe
+C:\Users\Gijs\Desktop\Createfile\Createfile\obj\Debug\Createfile.pdb
